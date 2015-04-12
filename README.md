@@ -1,6 +1,6 @@
 #Mean Mode Lab
 
-+ Write methods to check both the mean and mode of array of numbers
++ Write methods to check both the mean and mode in an array of numbers
 + and another method to check if they are both equal
 
 
